@@ -8,7 +8,6 @@ Query the view to fetch loan-related data.
 
 Drop the view when no longer needed.
 
- Step-by-Step Breakdown
 1. Create View
 
 CREATE VIEW loan_details_view AS
