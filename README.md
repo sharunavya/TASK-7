@@ -1,12 +1,4 @@
 Creating and Using a View in MySQL – loan_details_view
-Purpose
-This SQL script demonstrates how to:
-
-Create a view (loan_details_view) that simplifies access to comprehensive loan information.
-
-Query the view to fetch loan-related data.
-
-Drop the view when no longer needed.
 
 1. Create View
 
